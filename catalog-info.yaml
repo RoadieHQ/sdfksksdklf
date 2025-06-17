@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sdfksksdklf
+  title: Sdlfsdlkfjl
+  description: A static HTML website. Just like the good old days.
+  links:
+    - url: https://roadiehq.github.io/sdfksksdklf/
+      title: Live website
+  annotations:
+    github.com/project-slug: roadiehq/sdfksksdklf
+spec:
+  type: website
+  owner: user:dtuite
+  lifecycle: experimental
